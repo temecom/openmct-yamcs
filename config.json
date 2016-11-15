@@ -1,0 +1,6 @@
+{
+  "port": 8091,
+  "interval": 1000,
+  "yamcsBaseUrl":"http://localhost:8090/api",
+  "yamcsInstance":"simulator"
+}

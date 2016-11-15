@@ -1,0 +1,19 @@
+{
+  "name": "openmct-yamcs",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "A bridge service to connect the Open MCT platform with the YAMCS service",
+  "dependencies": {
+    "express": "^4.13.1",
+    "request": "^2.69.0",
+    "request-promise": "^4.1.1",
+    "util": "^0.10.3",
+    "ws": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nasa/openmct-yamcs.git"
+  },
+  "author": "Christopher Smith",
+  "license": "Apache-2.0",
+  "private": true
+}
